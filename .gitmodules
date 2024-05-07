@@ -1,3 +1,6 @@
 [submodule "Java_and_Web_basic"]
 	path = Java_and_Web_basic
 	url = https://github.com/wj0624/Java-and-Web-basic.git
+[submodule "Database"]
+	path = Database
+	url = https://github.com/wj0624/SQL_Oracle.git
