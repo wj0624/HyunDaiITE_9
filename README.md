@@ -1,7 +1,9 @@
- # 🍀 현대IT&amp;E 교육
-9기 채용연계형 MSA기반 Full stack 개발자 양성 과정
+ # 🍀 현대IT&amp;E 교육 🍀
+9기 채용연계형 MSA기반 Full stack 개발자 양성 과정 (2024.04.01 - 2024.09.25)
 
-### 커리큘럼 ###
+<br>
+
+## 📝 커리큘럼 ##
 | 🔎 구분 | 📚 과목 | 💡 내용 | 🔗 링크 |
 |:---:|:---:|:---:|:---:|
 | 1 |Java 객체지향 프로그래밍| Class&Object, Polymorphism, Class Inheritance, Collection Framework, Generic, Lambda&Stream, Thread, IO/NIO| <a href=https://github.com/wj0624/Java-and-Web-basic>👇</a> |
@@ -18,4 +20,8 @@
 | 12 |Agile| JIRA, Confluence, 소프트웨어 개발 보안, 최약점 진단, SW개발시 고려 사항, UML개요, 정적/동적 다이어그램|
 | 13 |최종 프로젝트| 최종 프로젝트 수행 및 평가|
 
+<br>
 
+## 🤓 스터디 ##
+* (개인) 알고리즘 스터디 <a href=https://github.com/wj0624/Spring-study > (링크) </a>
+* 스프링 스터디 <a href=https://github.com/wj0624/Spring-study> (링크) </a>
